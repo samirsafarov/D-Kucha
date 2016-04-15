@@ -1,2 +1,2 @@
-# D-Kucha
-drevesnaya struktura
+# d-kycha
+its a laba 1
